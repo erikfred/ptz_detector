@@ -1,0 +1,19 @@
+name: ptz
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - netCDF4
+  - matplotlib
+  - netCDF4
+  - numpy
+  - os
+  - pandas
+  - scipy
+  - jupyterhub-singleuser
+  - jupyter-server-proxy
+  - jupyterlab=3
+  - jupyter-resource-usage
+  - pip=20
